@@ -1,0 +1,11 @@
+.div_contato {
+	width: 33%;
+	height: inherit;
+	float: left;
+	position: relative;
+}
+.teste {
+	height: 500px;
+	width: 100%;
+	float:  none;
+}
